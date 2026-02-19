@@ -11,13 +11,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-/**
- * UQAM - Hiver 2024 - INF2120 - Groupe 30 - TP3
- *
- * @author Raul Beschea
- * code Permanent: BESR90110008
- * @version 3 avril 2024
- */
 
 public class RepertoireCoursFinance {
 
