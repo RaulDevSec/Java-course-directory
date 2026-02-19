@@ -5,22 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * UQAM - Hiver 2024 - INF2120 - Groupe 30 - TP3
- * 
- * TestsPartielsRepertoireCoursFinance : Classe de TESTS PARTIELS pour tester la classe
- * RepertoireCoursFinance.
- * 
- * Executez la methode main et verifiez que ce qui s'affiche a la console (resultats obtenus)
- * est identique a ce qui est montre dans le fichier resultatsAttendus.txt fourni avec cette
- * classe de tests partiels.
- * 
- * Cette classe de tests NE TESTENT PAS TOUS LES CAS. Vous devrez faire vos propres tests pour
- * tester correctement votre classe RepertoireCoursFinance.
- * 
- * @author Ismael Doukoure
- * @version 3 Avril 2024
- */
+
 public class TestsPartielsRepertoireCoursFinance {
 
    public final static String FIC = "fichierPourTestsPartiels.csv";
